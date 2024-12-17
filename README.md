@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="left">Hi, I'm Neeraj</h1>
-<h3 align="left">ML/MLOps Engineer | Data Scientist</h3>
+<h3 align="left">ML/MLOps Engineer & Data Scientist</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 I am a passionate Machine Learning Engineer and Data Scientist dedicated to developing AI-powered solutions that solve <b>real-world problems</b>. My focus lies in designing scalable machine learning models, automating workflows with <b>MLOps</b>, and optimizing systems for production deployment. I love exploring new technologies and transforming raw data into meaningful insights.
 </p>
 
-- 🔭 **Current Focus**: Building end-to-end machine learning pipelines with MLOps.  
+- 🔭 **Current Focus**: Developing end-to-end machine learning pipelines with MLOps.  
 - 🌱 **Learning**: GenAI, Deep Learning, and AI for production.  
 - ⚙️ **Skills**: Machine Learning | Model Deployment | Data-Driven Applications.  
 - 📫 **Contact**: **neerajhhhhh225@gmail.com**  
