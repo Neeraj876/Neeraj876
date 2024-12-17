@@ -10,7 +10,7 @@ I am a passionate Machine Learning Engineer and Data Scientist dedicated to deve
 </p>
 
 - 🔭 **Current Focus**: Building end-to-end machine learning pipelines with MLOps.  
-- 🌱 **Learning**: Advanced NLP, Deep Learning, and AI for production.  
+- 🌱 **Learning**: GenAI, Deep Learning, and AI for production.  
 - ⚙️ **Skills**: Machine Learning | Model Deployment | Data-Driven Applications.  
 - 📫 **Contact**: **neerajhhhhh225@gmail.com**  
 
