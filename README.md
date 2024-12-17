@@ -19,6 +19,9 @@ I am a passionate Machine Learning Engineer and Data Scientist dedicated to deve
 <!-- Connect With Me -->
 <h3 align="left">🤝 Connect With Me</h3>
 <p align="left">
+<a href="https://x.com/neerajjj6785" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
 <a href="https://www.linkedin.com/in/neeraj-125601238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
