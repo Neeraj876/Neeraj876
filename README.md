@@ -8,10 +8,10 @@
 <p align="left"> I am a passionate <b>Machine Learning Engineer</b> and <b>Data Scientist</b> dedicated to building AI-powered solutions that solve <b>real-world problems</b>. My expertise lies in designing <b>scalable machine learning models</b>, automating workflows with <b>MLOps</b>, and optimizing systems for seamless production deployment. I enjoy exploring cutting-edge technologies and transforming raw data into <b>actionable insights</b>. 
 </p>
 
-- 🔭 **Current Focus**: Developing end-to-end machine learning pipelines with MLOps.  
-- 🌱 **Learning**: GenAI and Deep Learning for production.  
+- 🔭 **Current Focus**: Building end-to-end machine learning pipelines with MLOps.  
+- 🌱 **Learning**: <b>Generative AI</b> and <b>Deep Learning</b> for production-ready solutions.  
 - ⚙️ **Skills**: Machine Learning | Model Deployment | Data-Driven Applications.  
-- 📫 **Contact**: **neerajhhhhh225@gmail.com**  
+- 📫 **Reach Me At**: **neerajhhhhh225@gmail.com**  
 
 ---
 
