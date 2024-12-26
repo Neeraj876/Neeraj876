@@ -58,7 +58,7 @@
 <!-- Backend & API -->
 ### ⚙️ Backend & API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 <!-- Deployment & Data Handling -->
 ### 🚀 Deployment & MLOps
@@ -76,7 +76,7 @@
 <!-- LangChain & Related -->
 ### 🔗 AI Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-FFD43B?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF0000?style=flat-square&logo=huggingface&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFDA54?style=for-the-badge&logo=huggingface&logoColor=white)
 
 <!-- Tools -->
 ### 🛠️ Development Tools
