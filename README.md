@@ -6,7 +6,7 @@
 ---
 
 <!-- Introduction --> 
-<p align="left"> I am a passionate <b>Machine Learning Engineer</b> and <b>Data Scientist</b> dedicated to building AI-powered solutions that solve <b>real-world problems</b>. My expertise lies in designing <b>scalable machine learning models</b>, automating workflows with <b>MLOps</b>, and optimizing systems for seamless production deployment. I enjoy exploring cutting-edge technologies and transforming raw data into <b>actionable insights</b>. 
+<p align="left"> I am passionate <b>Machine Learning Engineer</b>b> and <b>Data Scientist</b>b> about leveraging AI and data to solve real-world problems. I specialize in building scalable machine learning models, optimizing performance, and streamlining workflows with <b>MLOps</b>b>. I love transforming raw data into meaningful insights and developing data-driven applications that empower businesses. 
 </p>
 
 - 🔭 **Current Focus**: Building end-to-end machine learning pipelines with MLOps.  
