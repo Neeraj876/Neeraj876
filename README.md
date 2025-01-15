@@ -12,7 +12,7 @@
 -  **Current Focus**: Building end-to-end machine learning pipelines with MLOps.  
 -  **Learning**: <b>Generative AI</b> and <b>Deep Learning</b> for production-ready solutions.  
 -  **Skills**: Machine Learning | Model Deployment | Data-Driven Applications.
--  **Portfolio**: [Visit My Website](https://neeraj876.github.io/))  
+-  **Portfolio**: [Visit My Portfolio](https://neeraj876.github.io/) 
 -  **Reach Me At**: **neerajhhhhh225@gmail.com**  
 
 ---
