@@ -6,8 +6,10 @@
 <p align="left"> I help businesses turn their data into actionable insights by building reliable, production-ready machine learning solutions. My goal is to deliver practical, real-world applications that seamlessly integrate into existing workflows. 
 </p>
 
--  **Portfolio**: [Visit My Portfolio](https://neeraj876.github.io/) 
--  **Reach Me At**: **neerajhhhhh225@gmail.com**  
+- **Portfolio**: [Visit My Portfolio](https://neeraj876.github.io/) 
+- **Reach Me At**: **neerajhhhhh225@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj876&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj876" /> </p>
 
 ---
 
