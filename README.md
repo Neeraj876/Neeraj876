@@ -9,8 +9,6 @@
 -  **Portfolio**: [Visit My Portfolio](https://neeraj876.github.io/) 
 -  **Reach Me At**: **neerajhhhhh225@gmail.com**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj876&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj876" /> </p>
-
 ---
 
 <!-- Connect With Me -->
@@ -80,3 +78,6 @@
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj876&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj876" /> </p>
+
