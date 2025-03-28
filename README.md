@@ -1,9 +1,6 @@
 <!-- Header Section -->
 <h1 align="left">👋 Hi, I'm Neeraj</h1>
 <h3 align="left">Machine Learning Engineer specialized in MLOps</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj876&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj876" /> </p>
-
----
 
 <!-- Introduction --> 
 <p align="left"> I help businesses turn their data into actionable insights by building reliable, production-ready machine learning solutions. My goal is to deliver practical, real-world applications that seamlessly integrate into existing workflows. 
@@ -11,6 +8,8 @@
 
 -  **Portfolio**: [Visit My Portfolio](https://neeraj876.github.io/) 
 -  **Reach Me At**: **neerajhhhhh225@gmail.com**  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj876&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj876" /> </p>
 
 ---
 
