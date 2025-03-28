@@ -1,17 +1,14 @@
 <!-- Header Section -->
 <h1 align="left">👋 Hi, I'm Neeraj</h1>
-<h3 align="left">Machine Learning Engineer & Data Scientist</h3>
+<h3 align="left">Machine Learning Engineer & MLOps Specialist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj876&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj876" /> </p>
 
 ---
 
 <!-- Introduction --> 
-<p align="left"> I am a passionate <b>Machine Learning Engineer</b> and <b>Data Scientist</b> with a passion for leveraging AI and data to solve real-world problems. I specialize in building scalable machine learning models, optimizing performance, and streamlining workflows with <b>MLOps</b>. I love transforming raw data into meaningful insights and developing data-driven applications that empower businesses. 
+<p align="left"> I help businesses turn their data into actionable insights by building reliable, production-ready machine learning solutions. My goal is to deliver practical, real-world applications that seamlessly integrate into existing workflows. 
 </p>
 
--  **Current Focus**: Building end-to-end machine learning pipelines with MLOps.  
--  **Learning**: <b>Generative AI</b> and <b>Deep Learning</b> for production-ready solutions.  
--  **Skills**: Machine Learning | Model Deployment | Data-Driven Applications.
 -  **Portfolio**: [Visit My Portfolio](https://neeraj876.github.io/) 
 -  **Reach Me At**: **neerajhhhhh225@gmail.com**  
 
