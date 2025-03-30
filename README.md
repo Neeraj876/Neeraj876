@@ -73,7 +73,7 @@
 
 <!-- LangChain & Related -->
 ### 🔗 AI Frameworks
-![LangChain](https://badgen.net/badge/LangChain/F66D0B?icon=github&scale=1.2)
+![LangChain](https://img.shields.io/badge/LangChain-F66D0B?style=for-the-badge&logo=data:image/svg+xml;base64,<!--BASE64_ENCODED_SVG-->)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-F78C40?style=for-the-badge&logo=huggingface&logoColor=white)
 
 <!-- Tools -->
