@@ -3,7 +3,7 @@
 <h3 align="left">MLOps Engineer</h3>
 
 <!-- Introduction --> 
-<p align="left"> I help businesses turn their data into actionable insights by building reliable, production-ready machine learning solutions. My goal is to deliver practical, real-world applications that seamlessly integrate into existing workflows. 
+<p align="left"> I help startups build scalable, reliable machine learning pipelines, integrating seamlessly into their existing workflows. If your business needs automated model retraining or cloud-ready AI solutions, let’s discuss how I can help.
 </p>
 
 - **Portfolio**: [Visit My Portfolio](https://neeraj876.github.io/) 
