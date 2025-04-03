@@ -3,7 +3,9 @@
 <h3 align="left">MLOps Engineer</h3>
 
 <!-- Introduction --> 
-<p align="left"> I help startups build scalable, reliable machine learning pipelines, integrating seamlessly into their existing workflows. If your business needs cloud-ready AI solutions, let’s discuss how I can help.
+<p align="left">I help startups build scalable, reliable machine learning pipelines that seamlessly integrate into existing workflows. My focus is on automating model retraining, cloud deployment, and maintaining robust data pipelines to ensure efficiency and scalability.
+
+If your business needs cloud-ready AI solutions or automated ML pipelines, let’s discuss how I can help.
 </p>
 
 - **Portfolio**: [Visit My Portfolio](https://neeraj876.github.io/) 
