@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="left">👋 Hi, I'm Neeraj</h1>
-<h3 align="left">MLOps Engineer</h3>
+<h3 align="left">AI/ML Engineer</h3>
 
 <!-- Introduction --> 
 <p align="left">I help startups build scalable, reliable machine learning pipelines that seamlessly integrate into existing workflows. My focus is on automating model retraining, cloud deployment, and maintaining robust data pipelines to ensure efficiency and scalability.
